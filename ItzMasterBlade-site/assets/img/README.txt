@@ -1,0 +1,1 @@
+Place your images here: deco-cat.png, deco-note.png, deco-orange.png, lights.png, sprite-1.png, sprite-2.png, star-blue.png, star-chrome.png, star-icon.png, your-image.png, mc-profile-pic.png (rename of "Mc  Profile Pic.png")
